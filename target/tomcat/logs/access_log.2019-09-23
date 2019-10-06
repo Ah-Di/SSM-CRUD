@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [23/Sep/2019:22:13:26 +0800] "GET /ssmcrud HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [23/Sep/2019:22:13:26 +0800] "GET /ssmcrud/ HTTP/1.1" 404 949 http-bio-8080-exec-2 29
+0:0:0:0:0:0:0:1 - - [23/Sep/2019:22:13:27 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [23/Sep/2019:22:15:39 +0800] "GET /ssmcrud/ HTTP/1.1" 404 1009 http-bio-8080-exec-1 2160
+0:0:0:0:0:0:0:1 - - [23/Sep/2019:22:15:42 +0800] "GET /ssmcrud/ HTTP/1.1" 404 1009 http-bio-8080-exec-3 15
+0:0:0:0:0:0:0:1 - - [23/Sep/2019:22:16:16 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-5 0
+0:0:0:0:0:0:0:1 - - [23/Sep/2019:22:17:46 +0800] "GET /ssmcrud/ HTTP/1.1" 200 405 http-bio-8080-exec-1 2765
+0:0:0:0:0:0:0:1 - - [23/Sep/2019:22:17:46 +0800] "GET /ssmcrud/static/bootstrap-3.3.7-dist/css/bootstrap.min.css HTTP/1.1" 200 121200 http-bio-8080-exec-4 26
+0:0:0:0:0:0:0:1 - - [23/Sep/2019:22:17:46 +0800] "GET /ssmcrud/static/jquery-3.3.1.min.js HTTP/1.1" 200 86927 http-bio-8080-exec-2 31
+0:0:0:0:0:0:0:1 - - [23/Sep/2019:22:17:46 +0800] "GET /ssmcrud/static/bootstrap-3.3.7-dist/js/bootstrap.min.js HTTP/1.1" 200 37045 http-bio-8080-exec-3 26
